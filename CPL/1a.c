@@ -16,7 +16,6 @@ exit(0);
 }
 
  disc = b*b-4*a*c ;
- disc = b*b-4*a*c ;
 if( disc==0) 
  {
  r1=r2=-b/(2*a);
